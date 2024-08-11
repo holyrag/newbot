@@ -25,7 +25,7 @@
 
 ### 1. FORK THIS REPO
 
-**Fork Repo First, [`CLICK HERE`](https://github.com/ITACHI-MD-pixel/) (A MUST) and `Star ⭐ Repository` for Courage.**
+**Fork Repo First, [`CLICK HERE`](https://github.com/ITACHI-MD-pixel/hsndknsb) (A MUST) and `Star ⭐ Repository` for Courage.**
 ### 2. GET SESSION ID HERE
 
 ### SERVER 1
