@@ -25,7 +25,7 @@
 
 ### 1. FORK THIS REPO
 
-**Fork Repo First, [`CLICK HERE`](https://github.com/ITACHI-MD-pixel/newbot/fork*) (A MUST) and `Star ⭐ Repository` for Courage.**
+**Fork Repo First, [`CLICK HERE`](*https://github.com/ITACHI-MD-pixel/newbot/fork*) (A MUST) and `Star ⭐ Repository` for Courage.**
 ### 2. GET SESSION ID HERE
 
 ### SERVER 1
