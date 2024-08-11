@@ -25,8 +25,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/ITACHI-MD-pixel/newbot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-
+**Fork Repo First, [`CLICK HERE`](https://github.com/ITACHI-MD-pixel/paul/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 ### 2. GET SESSION ID HERE
 
 ### SERVER 1
