@@ -9,12 +9,12 @@
       "asta": "pm2 start . --deep-monitoring --attach --name 𝕀𝕋𝔸ℂℍ𝕀-𝕄𝔻-𝕡𝕚𝕩𝕖𝕝 || node .",
       "start": "pm2 start . --attach --name 𝕀𝕋𝔸ℂℍ𝕀-𝕄𝔻-𝕡𝕚𝕩𝕖𝕝",
       "stop": "pm2 stop 𝕀𝕋𝔸ℂℍ𝕀-𝕄𝔻-𝕡𝕚𝕩𝕖𝕝",
-      "heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "heroku-postbuild": "git clone https://github.com/ITACHI-MD-pixel/newbot temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/ITACHI-MD-pixel/newbot.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "Paul Adedokun",
-   "license": "Apache-2.0",
+   "license": "GPL-3.0 licence",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
       "@hapi/boom": "^9.1.4",
@@ -82,5 +82,5 @@
    "bugs": {
       "url": "https://github.com/ITACHI-MD-pixel/newbot/issues"
    },
-   "homepage": "https://github.com/ITACHI-MD-pixel/newbot#readme"
+   "homepage": "https://github.com/ITACHI-MD-pixel/newbot?tab=readme-ov-file"
 }
